@@ -1,0 +1,9 @@
+{
+  "files.associations": {
+    "*.py": "python",
+    "pattern of asterisks, decreasing the count of asterisks in each line.C": "cpp",
+    "DECOMALTOBINARY.C": "cpp",
+    "valueaddinarray.C": "cpp",
+    "random": "c"
+  }
+}

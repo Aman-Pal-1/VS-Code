@@ -1,0 +1,66 @@
+/* Reset some default styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #f4d9b6; /* Antique beige */
+  color: #333;
+  line-height: 1.6;
+}
+
+header {
+  background-color: #8c5a2e; /* Deep brown for header */
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+}
+
+header h1, header nav ul li a {
+  font-family: 'Arial Black', Gadget, sans-serif;
+}
+
+nav ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+}
+
+nav ul li {
+  margin: 0 20px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+  color: #d7b598; /* Lighter brown on hover */
+}
+
+.section {
+  padding: 40px 20px;
+}
+
+.ancient-header, .ancient-footer {
+  background-color: #6f4a1e; /* Darker brown for header and footer */
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+}
+
+footer p {
+  margin-top: 20px;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  nav ul {
+      flex-direction: column;
+  }
+}
