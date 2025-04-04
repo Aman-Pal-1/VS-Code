@@ -13,7 +13,7 @@ int main()
 }
 
 void tempfunction(float temp){
-if(temp<0)
+if(temp<0)  
     printf("Freezing weather");
 else if(temp>=0 && temp<10)
     printf("Very Cold Weather");
