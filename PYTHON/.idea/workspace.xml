@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26dd43c3-39cf-474b-b1ea-84033c8a0bf5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../C programming/WAP to implement the following operation on array . insertion and deletion/deletion.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C programming/WAP to implement the following operation on array . insertion and deletion/deletion.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C programming/WAP to implement the following operation on array . insertion and deletion/insertion.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C programming/WAP to implement the following operation on array . insertion and deletion/insertion.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C programming/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C programming/allLettersEngAlphabetUsingPointer/allLettersEngAlphabetUsingPointer.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C programming/arraymaxnobetweentwonumber/maxtwono.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C programming/arrayreverseusepointer/arrReversePointer.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C programming/decimaltobinarynumber.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C programming/decimaltobinaryusingforloop.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C programming/first prog c/firstprog.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C programming/first.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C programming/functionsumofdigit/sumusingfunction.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C programming/functiontoPrintRamRam/functiontoprintRamRam.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C programming/functiontocalcSumProdAvg.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C programming/functiontoprinttables/functoprintTable.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C programming/functoareaofsquarecirclerectangle/functoareaofsquarecirclerect.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C programming/it class/agecompair.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C programming/it class/agecompair.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C programming/it class/divisibleby5and3.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C programming/it class/divisibleby5and3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C programming/it class/divisibleby5and3notuseandoperator.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C programming/it class/divisibleby5and3notuseandoperator.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C programming/it class/findgreatestvalue.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C programming/it class/findgreatestvalue.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C programming/it class/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C programming/ownPowerfunc/ownPowerFunc.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C programming/pattern of asterisks, decreasing the count of asterisks in each line.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C programming/powerfunctionlibraryfunction/power.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C programming/print prime no. in a range/primeno.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C programming/print prime no. in a range/secondmethodprimeno.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C programming/profitloss.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C programming/second for leap year .exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C programming/second.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C programming/siftallzeroinendinarray/shift.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C programming/squarerootfunc/squarerootfunction.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C programming/temp_functions/tempfunction.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C programming/twofunctionsprintsdiffentthings/twofunction.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C programming/twofunctiontoprint/twofunction.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C programming/valueaddinarray.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA/sum array.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA/sum array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PYTHON PROJECTS/wifi.py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON PROJECTS/wifi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development Course (HTML,CSS,JAVA)/Sigma Web Development Course" beforeDir="false" afterPath="$PROJECT_DIR$/../Web Development Course (HTML,CSS,JAVA)/Sigma Web Development Course" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Projects" beforeDir="false" afterPath="$PROJECT_DIR$/../Web Projects" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2vgWvXzwHPoPQ4ku9WDJS3wJXBd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26dd43c3-39cf-474b-b1ea-84033c8a0bf5" name="Changes" comment="" />
+      <created>1744567430299</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744567430299</updated>
+    </task>
+    <servers />
+  </component>
+</project>

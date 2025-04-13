@@ -24,3 +24,4 @@ public class PrefixSum {
         System.out.println("Sum of elements in range [" + left + ", " + right + "] is: " + sum);
     }
 }
+ 
