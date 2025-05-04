@@ -1,0 +1,8 @@
+a = (1,2,3,5,6)
+print(type(a))
+b=()
+print(b)
+c=(1,)
+print(c)
+d = (1,2,45,"aman",45.5, False)
+print(d)
